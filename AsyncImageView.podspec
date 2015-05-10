@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "AsyncImageView"
+  s.name         = "AsyncImageView-blocks"
   s.version      = "1.5.1"
   s.summary      = "AsyncImageView is an extension of UIImageView for loading and displaying images asynchronously on iOS so that they do not lock up the UI."
   
